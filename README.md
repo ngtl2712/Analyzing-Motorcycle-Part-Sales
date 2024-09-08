@@ -15,3 +15,4 @@ The dataset used for this analysis is the "sales.csv" file.
 ### Tools
 
 SQL (PostgresSQL) - Data Analysis 
+Power BI - Creating Report
